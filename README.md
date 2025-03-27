@@ -1,3 +1,4 @@
+![Masterhead](https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1626753867110?e=1748476800&v=beta&t=rqcUwGU6eKqD3MM3JPlKjV5AsiUlHnBcUC4Ai99Qcb8)
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
 <h3 align="center">A passionate AI-driven Data Analyst from India.</h3>
 <img align="right" alt="Coding" width="450" src="https://propelsum.com/wp-content/uploads/2021/08/Propelsum-Business-intelligence-and-Analytics.webp" />
@@ -6,13 +7,13 @@
 
 - 🌱 I’m currently learning **Statistics, AWS**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/rishabhkumar3003](https://www.datascienceportfol.io/rishabhkumar3003)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.datascienceportfol.io/rishabhkumar3003)
 
 - 💬 Ask me about **Data Analysis, Exploratory Data Analysis (EDA)**
 
 - 📫 How to reach me **rishabhkumar3003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18rVLy7VhRvC9Nb5r8ooNKxPOP9T8XI-G/view?usp=sharing](https://drive.google.com/file/d/18rVLy7VhRvC9Nb5r8ooNKxPOP9T8XI-G/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/18rVLy7VhRvC9Nb5r8ooNKxPOP9T8XI-G/view?usp=sharing)
 
 - ⚡ Fun fact **When I'm not crunching numbers, you’ll find me exploring new datasets or sipping chai while debugging code. Here's a little inspiration: "Data is the new oil, and I’m here to refine it!"**
 
