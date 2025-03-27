@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishabh Kumar</h1>
 <h3 align="center">A passionate AI-driven Data Analyst from India.</h3>
-<img align="right" alt="Coding" width="450" src="https://smuhabdullah.medium.com/the-ultimate-3-month-plan-for-learning-data-science-from-data-analysis-to-big-data-42b2995e05a9" />
+<img align="right" alt="Coding" width="450" src="https://propelsum.com/wp-content/uploads/2021/08/Propelsum-Business-intelligence-and-Analytics.webp" />
 
 - 🔭 I’m currently working on **FBI-Time Series Analysis**
 
