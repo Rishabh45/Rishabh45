@@ -29,6 +29,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishabh45&show_icons=true&locale=en" alt="rishabh45" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabh45" alt="GitHub Streak Stats for rishabh45" />
-</p>
